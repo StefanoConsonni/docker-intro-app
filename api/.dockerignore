@@ -1,0 +1,14 @@
+node_modules
+Dockerfile
+
+#Ignore logs directory
+logs/
+
+#Ignore git files and cache folder
+.git
+.gitignore
+.cache
+
+#Ingore all markdown and class files
+*.md
+**/*.class
